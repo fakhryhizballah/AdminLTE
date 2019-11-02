@@ -1,11 +1,7 @@
-*.DS_Store
-*.log
-*.zip
-.idea
-.sass-cache/
 /nbproject/
-/nbproject/private/
-/node_modules/
-ad.js
-TODO
-test.html
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
